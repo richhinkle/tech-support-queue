@@ -57,3 +57,5 @@ desktop.ini
 *.pyo
 *.pyd
 *.pdb
+
+venv/
